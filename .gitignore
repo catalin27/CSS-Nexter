@@ -1,3 +1,10 @@
+# Compiled styles
+css/style*.css
+css/style*.css.map
+
+# MacOS DS_Store
+*DS_Store
+
 # Logs
 logs
 *.log
